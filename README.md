@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm JKB_Solutions</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=johnkennethbuce&include_all_commits=true" alt="johnkennethbuce" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working on [POS Ordering System](https://github.com/JohnKennethBuce/OrderingSystem)
 - 🌱 I’m currently learning **.net**
 - 💬 Ask me about **Development and Latest Tech**
 - 📫 How to reach me **buce.johnkenneth@gmail.com**
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1_kFV1Z38qQVCArwjt1Z-8f3zHAesIZZP/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
