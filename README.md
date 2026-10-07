@@ -9,7 +9,7 @@
 
 ### ⚡ About Me
 - 🔭 **Current Project:** Architecting an **[Enterprise Multi-Tenant POS & Fiscal Engine](https://github.com/JohnKennethBuce/OrderingSystem)** with offline-first transaction queues.
-- 🌱 **Deepening Expertise:** High-concurrency architectures in **.NET 8 / ASP.NET Core**, database transaction isolation, and containerized deployments.
+- 🌱 **Deepening Expertise:** High-concurrency architectures in **.NET 10 / ASP.NET Core**, database transaction isolation, and containerized deployments.
 - 💬 **Ask Me About:** Relational Database Design, ETL Pipelines (Legacy DB to SQL), .NET POS Integrations, and BIR Fiscal Compliance.
 - 📫 **Email:** [buce.johnkenneth@gmail.com](mailto:buce.johnkenneth@gmail.com)
 - 📄 **Resume:** [View Official Resume](https://drive.google.com/file/d/1_kFV1Z38qQVCArwjt1Z-8f3zHAesIZZP/view?usp=drive_link)
