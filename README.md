@@ -1,29 +1,43 @@
-<h1 align="center">Hi 👋, I'm JKB_Solutions</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm John Kenneth Buce</h1>
+<h3 align="center">Junior Software Engineer | Backend & Systems (.NET • C# • SQL)</h3>
 
-- 🔭 I’m currently working on [POS Ordering System](https://github.com/JohnKennethBuce/OrderingSystem)
-- 🌱 I’m currently learning **.net**
-- 💬 Ask me about **Development and Latest Tech**
-- 📫 How to reach me **buce.johnkenneth@gmail.com**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1_kFV1Z38qQVCArwjt1Z-8f3zHAesIZZP/view?usp=drive_link)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<p align="center">
+  <b>Magna Cum Laude (BSIT)</b> with 1.5+ years of production experience building transactional systems, retail mall sync gateways, and fiscal data pipelines.
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnkennethbuce&show_icons=true&locale=en&layout=compact" alt="johnkennethbuce" />
+---
+
+### ⚡ About Me
+- 🔭 **Current Project:** Architecting an **[Enterprise Multi-Tenant POS & Fiscal Engine](https://github.com/JohnKennethBuce/OrderingSystem)** with offline-first transaction queues.
+- 🌱 **Deepening Expertise:** High-concurrency architectures in **.NET 8 / ASP.NET Core**, database transaction isolation, and containerized deployments.
+- 💬 **Ask Me About:** Relational Database Design, ETL Pipelines (Legacy DB to SQL), .NET POS Integrations, and BIR Fiscal Compliance.
+- 📫 **Email:** [buce.johnkenneth@gmail.com](mailto:buce.johnkenneth@gmail.com)
+- 📄 **Resume:** [View Official Resume](https://drive.google.com/file/d/1_kFV1Z38qQVCArwjt1Z-8f3zHAesIZZP/view?usp=drive_link)
+
+---
+
+### 🛠️ Languages & Tech Stack
+
+<p align="left">
+  <!-- Backend & Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://dotnet.microsoft.com/images/redesign/brand-symbols/dotnet-logo.svg" alt=".NET" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>&nbsp;&nbsp;
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>&nbsp;&nbsp;
+  <!-- Frontend & Environment -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnkennethbuce&show_icons=true&locale=en&count_private=true" alt="johnkennethbuce" />
+---
+
+### 📊 Language Breakdown
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnkennethbuce&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Top Languages" />
 </p>
+<br clear="both"/>
