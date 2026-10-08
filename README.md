@@ -52,7 +52,7 @@ mechanics across four formal Architecture Decision Records (ADRs).
 I leverage modern AI tools for rapid scaffolding, documentation structuring, and 
 pressure-testing architectural edge cases. 
 
-I treat AI as a force multiplier: the system design, domain constraints, database 
+I treat AI as a force multiplier. the system design, domain constraints, database 
 boundaries, and final code reviews remain strictly developer-driven.
 
 ---
@@ -60,4 +60,4 @@ boundaries, and final code reviews remain strictly developer-driven.
 ### Contact
 
 - Email: [buce.johnkenneth@gmail.com](mailto:buce.johnkenneth@gmail.com)
-- LinkedIn: [Your Profile Link]
+- LinkedIn: [www.linkedin.com/in/john-kenneth-buce-984bb7346](messageto:John Kenneth Buce)
