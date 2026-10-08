@@ -60,4 +60,4 @@ boundaries, and final code reviews remain strictly developer-driven.
 ### Contact
 
 - Email: [buce.johnkenneth@gmail.com](mailto:buce.johnkenneth@gmail.com)
-- LinkedIn: [www.linkedin.com/in/john-kenneth-buce-984bb7346](messageto:John Kenneth Buce)
+- LinkedIn: John Kenneth Buce (Software Engineer)
