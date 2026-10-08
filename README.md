@@ -1,68 +1,63 @@
 # John Kenneth Buce
 
 Backend-focused software engineer based in the Philippines.
-~1.5 years in production. Currently digging into transactional .NET systems,
-relational data integrity, and the retail/fiscal domain.
+~1.5 years in production. Focused on transactional .NET systems,
+relational data integrity, and retail/fiscal domains.
 
-I learn by building and by asking hard questions. Right now I'm studying
-how multi-tenant POS systems are architected — not because I've shipped one,
-but because I want to understand how statutory compliance, offline-first
-design, and tenant isolation actually fit together under real constraints.
+I learn by building from first principles. I focus heavily on how 
+statutory compliance, offline-first reliability, and database-level 
+tenant isolation operate under real-world constraints.
 
 ---
 
-### What I work with
+### What I Work With
 
 **Backend:** C# / .NET, ASP.NET Core, Python / Django
 **Data:** PostgreSQL, MySQL, SQL Server, SQLite
 **Frontend:** React, TypeScript
-**Environment:** Docker, Linux, Node.js
+**Environment & Tooling:** Docker, Linux, Node.js, Git
 
 ---
 
-### What I'm actually good at
+### Core Strengths
 
-- Writing, reading, and debugging C# / ASP.NET Core services
-- Relational schema design in PostgreSQL and SQL Server
-- Reading long regulatory or technical documents and extracting the rules that matter
-- Asking good questions and following them to a real answer
+- Developing and debugging transactional C# / ASP.NET Core services
+- Relational schema modeling and query optimization (PostgreSQL, SQL Server)
+- Translating complex regulatory and fiscal specifications (e.g., BIR rules) into strict data models
+- Root-cause debugging and database migration pipelines
 
-### What I'm actively learning
+### Current Focus Areas
 
-- Multi-tenant architecture trade-offs (isolation vs. operational cost)
-- High-concurrency patterns and transaction isolation in practice
-- Defense-in-depth security for regulated domains
-- How fiscal/statutory systems are actually built and audited
+- Advanced multi-tenant isolation patterns (RLS vs. schema-per-tenant)
+- High-concurrency transaction boundaries and distributed locking
+- Hardening zero-trust API middleware and defense-in-depth patterns
 
 ---
 
-### Featured work
+### Featured Work
 
 **[POS-Enterprise-Architecture](https://github.com/JohnKennethBuce/POS-Enterprise-Architecture)**
-An architecture study of an enterprise multi-tenant POS and fiscal engine for the
-Philippine market. I directed the tech stack, data isolation strategy, and
-compliance model, and used AI as a design partner to pressure-test and document
-the reasoning. The four ADRs in that repo represent my architectural decisions —
-I can defend them at the design level, and I'm actively building the individual
-components to close the gap between decision and implementation.
+An architectural blueprint and system specification for an enterprise multi-tenant POS 
+and fiscal engine tailored to Philippine regulatory compliance. 
 
-*Full source is private. Documentation is public.*
-  
+The repository documents the domain modeling, data isolation trade-offs, and compliance 
+mechanics across four formal Architecture Decision Records (ADRs).
+
+*Public architecture specification. Core enterprise implementation maintained privately.*
+
 ---
 
-### How I use AI
+### Engineering Approach & AI Workflow
 
-I use AI as a design partner and a scaffolding tool. I direct the architecture,
-define the constraints, and decide what ships. AI helps me draft, structure,
-and pressure-test — but the decisions, and the responsibility for them, are mine.
+I leverage modern AI tools for rapid scaffolding, documentation structuring, and 
+pressure-testing architectural edge cases. 
 
-Right now that means I can defend the design of the systems I've documented,
-while I'm still building the implementation depth to match it. That gap is
-real, and I'm closing it deliberately.
+I treat AI as a force multiplier: the system design, domain constraints, database 
+boundaries, and final code reviews remain strictly developer-driven.
 
 ---
 
 ### Contact
 
 - Email: [buce.johnkenneth@gmail.com](mailto:buce.johnkenneth@gmail.com)
-- GitHub: You're here.
+- LinkedIn: [Your Profile Link]
