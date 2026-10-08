@@ -22,10 +22,10 @@ design, and tenant isolation actually fit together under real constraints.
 
 ### What I'm actually good at
 
-- Writing and debugging C# / ASP.NET Core services
-- Relational schema design and query tuning
-- ETL and data migration between legacy systems and modern databases
+- Writing, reading, and debugging C# / ASP.NET Core services
+- Relational schema design in PostgreSQL and SQL Server
 - Reading long regulatory or technical documents and extracting the rules that matter
+- Asking good questions and following them to a real answer
 
 ### What I'm actively learning
 
@@ -47,17 +47,18 @@ I can defend them at the design level, and I'm actively building the individual
 components to close the gap between decision and implementation.
 
 *Full source is private. Documentation is public.*
-
+  
 ---
 
 ### How I use AI
 
-I use AI as a design partner — the way a senior engineer uses a whiteboard and a
-colleague. I ask it to argue with me, to poke holes in my reasoning, and to
-explain things I don't understand yet. I don't ask it to write code I can't read,
-and I don't publish work I can't explain.
+I use AI as a design partner and a scaffolding tool. I direct the architecture,
+define the constraints, and decide what ships. AI helps me draft, structure,
+and pressure-test — but the decisions, and the responsibility for them, are mine.
 
-If you're hiring, that's the honest version of what you'd be getting.
+Right now that means I can defend the design of the systems I've documented,
+while I'm still building the implementation depth to match it. That gap is
+real, and I'm closing it deliberately.
 
 ---
 
